@@ -12,6 +12,6 @@ int main(int argc, char *argv[]) {
 	rect.b = 4;
 	
 	printf("1.Area = %ld\n",Rectangle_Area(&rect));
-	printf("kp-f1");// 23:26
+	printf("kp-f1");// 23:26 and 23:47
 	return 0;
 }
