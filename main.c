@@ -13,5 +13,7 @@ int main(int argc, char *argv[]) {
 	
 	printf("1.Area = %ld\n",Rectangle_Area(&rect));
 	printf("kp-f1");// 23:26
+	printf("np-f1");// 23:37
+	
 	return 0;
 }
